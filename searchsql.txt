@@ -1,0 +1,6 @@
+دستور جستجو
+.
+جدول product
+
+SELECT * FROM product
+WHERE Name LIKE '%a%'
